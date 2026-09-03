@@ -10,9 +10,9 @@ from telegram.ext import (
     filters,
 )
 
-BOT_TOKEN = os.getenv("8818925720:AAF929jv8V_q6HMn8nr1OZxSR9nzBuNYfCs")
+BOT_TOKEN = os.getenv("BOT_TOKEN")
 ADMIN_ID = int(os.getenv("ADMIN_ID"))
-UPI_ID = os.getenv("okcclipol@airtel")
+UPI_ID = os.getenv("UPI_ID")
 
 DISCOUNT = 0.40  # User pays 40% = 60% OFF
 
