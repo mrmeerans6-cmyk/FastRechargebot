@@ -1,2 +1,2 @@
 python-telegram-bot==22.3
-qrcode[pil]==7.4.2
+qrcode[pil]==12.10.1
