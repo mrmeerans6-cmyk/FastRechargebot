@@ -1,1 +1,2 @@
-pip install -r requirements.txt
+python-telegram-bot==22.3
+qrcode[pil]==7.4.2
